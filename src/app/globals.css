@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "../css/reset.css"
 
 :root {
   --background: #ffffff;
