@@ -1,0 +1,17 @@
+.orderForm {
+  margin-top: 24px;
+}
+
+.orderForm ul {
+}
+.orderForm li {
+  margin-bottom: 8px;
+}
+.orderForm li label {
+  display: inline-block;
+  width: 15%;
+}
+.orderForm li input {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
